@@ -1,3 +1,0 @@
-#!/bin/sh
-
-cp -ad /usr/src /usr/mock/source
